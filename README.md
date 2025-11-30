@@ -324,37 +324,6 @@ docker run -p 8000:8000 \
 - Redis caching for frequent queries
 - Async task queue (Celery) for document processing
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Code Style
-- Use Black for formatting: `black .`
-- Follow PEP 8 guidelines
-- Add type hints where possible
-- Write docstrings for functions
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [LangChain](https://python.langchain.com/)
-- [Groq](https://groq.com/)
-- [SQLAlchemy](https://www.sqlalchemy.org/)
-
-## 📧 Contact
-
-Your Name - your.email@example.com
-
-Project Link: https://github.com/yourusername/bot-gpt-backend
-
----
 
 **Built with ❤️ for BOT Consulting**
